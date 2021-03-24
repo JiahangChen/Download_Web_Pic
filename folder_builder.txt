@@ -1,0 +1,196 @@
+                                            <li class="sub_menu_link_item subcategory467">
+                                                <a href="https://www.cardland-kamata.com/product-list/467" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink467">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">1弾 GUNDAM WAR</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory468">
+                                                <a href="https://www.cardland-kamata.com/product-list/468" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink468">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">2弾 撃墜王出撃</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory469">
+                                                <a href="https://www.cardland-kamata.com/product-list/469" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink469">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">3弾 宇宙の記憶</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory470">
+                                                <a href="https://www.cardland-kamata.com/product-list/470" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink470">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">4弾 新しき翼</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory471">
+                                                <a href="https://www.cardland-kamata.com/product-list/471" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink471">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">5弾 永久の絆</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory472">
+                                                <a href="https://www.cardland-kamata.com/product-list/472" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink472">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">6弾 新世紀の鼓動</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory473">
+                                                <a href="https://www.cardland-kamata.com/product-list/473" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink473">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">7弾 革新の波濤</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory474">
+                                                <a href="https://www.cardland-kamata.com/product-list/474" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink474">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">8弾 月下の戦塵</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory475">
+                                                <a href="https://www.cardland-kamata.com/product-list/475" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink475">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">9弾 相剋の軌跡</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory476">
+                                                <a href="https://www.cardland-kamata.com/product-list/476" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink476">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">10弾 刻の末裔</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory477">
+                                                <a href="https://www.cardland-kamata.com/product-list/477" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink477">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">11弾 蒼海の死闘</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory478">
+                                                <a href="https://www.cardland-kamata.com/product-list/478" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink478">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">12弾 宿命の螺旋</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory479">
+                                                <a href="https://www.cardland-kamata.com/product-list/479" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink479">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">13弾 烈火の咆哮</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory480">
+                                                <a href="https://www.cardland-kamata.com/product-list/480" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink480">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">14弾 果てなき運命</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory481">
+                                                <a href="https://www.cardland-kamata.com/product-list/481" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink481">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">15弾 禁忌の胎動</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory482">
+                                                <a href="https://www.cardland-kamata.com/product-list/482" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink482">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">16弾 覇王の紋章</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory483">
+                                                <a href="https://www.cardland-kamata.com/product-list/483" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink483">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">17弾 不敗の流派</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory484">
+                                                <a href="https://www.cardland-kamata.com/product-list/484" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink484">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">18弾 戦慄の兵威</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory485">
+                                                <a href="https://www.cardland-kamata.com/product-list/485" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink485">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">19弾 変革の叛旗</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory486">
+                                                <a href="https://www.cardland-kamata.com/product-list/486" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink486">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">20弾 流転する世界</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory487">
+                                                <a href="https://www.cardland-kamata.com/product-list/487" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink487">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">21弾 放たれた刃</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory488">
+                                                <a href="https://www.cardland-kamata.com/product-list/488" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink488">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">22弾 武神降臨</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory489">
+                                                <a href="https://www.cardland-kamata.com/product-list/489" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink489">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">23弾 栄光の戦史</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory490">
+                                                <a href="https://www.cardland-kamata.com/product-list/490" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink490 nav_on">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">24弾 宇宙を駆逐する光</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory491">
+                                                <a href="https://www.cardland-kamata.com/product-list/491" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink491">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">25弾 双極の閃光</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory492">
+                                                <a href="https://www.cardland-kamata.com/product-list/492" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink492">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">26弾 戦いという名の対話</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory493">
+                                                <a href="https://www.cardland-kamata.com/product-list/493" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink493">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">27弾 雷鳴の使徒</span>
+                                                </a>
+                                            </li>
+                                            <li class="sub_menu_link_item subcategory494">
+                                                <a href="https://www.cardland-kamata.com/product-list/494" class="sub_menu_link itemlist_nav_item item_list_link nav_btn subcategorylink494">
+                                                    <span class="nav_space"></span>
+                                                    <i class="fa fa-chevron-right right_side_nav_icon chevron_right_icon" aria-hidden="true"></i>
+                                                    <span class="nav_label">28弾 絶対戦力</span>
+                                                </a>
+                                            </li>
