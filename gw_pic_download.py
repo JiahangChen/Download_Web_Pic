@@ -88,8 +88,13 @@ def get_play_list(url_page):
         'Host': 'www.cardland-kamata.com',
     }
     html_get_pagemun = requests.get(url_page, headers=headers).text
-    pagenum_list = re.findall('pager_btn">(\d+)', html_get_pagemun)
-    pagenum_list = ['1'] + pagenum_list[: int(len(pagenum_list)/2)]
+    pagenum_list_find = re.findall('pager_btn">(\d+)', html_get_pagemun)
+    pagenum_list = []
+    if len(pagenum_list_find):
+        for tmp_i in range(1, int(pagenum_list_find[-1]) + 1):
+            pagenum_list.append(str(tmp_i))
+    else:
+        pagenum_list = ['1']
     object_url_list = []
     object_name_list = []
     for page in pagenum_list:
@@ -106,34 +111,42 @@ def get_play_list(url_page):
             object_url_list.append(pic_url)
             name_org = re.findall(r't/.*$', pic_url)[0][2:]
             # name1 = name_org[:-8]
-            name1 = re.findall( '(^.*?-.*?)0', name_org)[0]
-            if name1[0] == '2':
-                colour_code = 'G'
-            elif name1[0] == '3':
-                colour_code = 'B'
-            elif name1[0] == '4':
-                colour_code = 'R'
-            elif name1[0] == '1':
-                colour_code = 'U'
-            elif name1[0] == '5':
-                colour_code = 'Y'
-            elif name1[0] == '6':
-                colour_code = 'W'
-            elif name1[0] == '7':
-                colour_code = 'P'
-            elif name1[0] == '8':
-                colour_code = 'P'
-            elif name1[0] == '0':
-                colour_code = 'Q'
+            try:
+                name1 = re.findall( '(^.*?-.*?)0', name_org)[0]
+                if name1[0] == '2':
+                    colour_code = 'G'
+                elif name1[0] == '3':
+                    colour_code = 'B'
+                elif name1[0] == '4':
+                    colour_code = 'R'
+                elif name1[0] == '1':
+                    colour_code = 'U'
+                elif name1[0] == '5':
+                    colour_code = 'Y'
+                elif name1[0] == '6':
+                    colour_code = 'W'
+                elif name1[0] == '7':
+                    colour_code = 'P'
+                elif name1[0] == '8':
+                    colour_code = 'P'
+                elif name1[0] == '0':
+                    colour_code = 'Q'
 
-            name2 = re.findall('^.*?-.*?0+(.*)', name_org)[0][:-4]
-            #name2 = re.findall( '0*(.+)', name_org[-8:-4] )[0]
-            
-            name3 = re.findall('<span class="goods_name">(.+)</span>', html_specific)[0]
+                name2 = re.findall('^.*?-.*?0+(.*)', name_org)[0][:-4]
+                #name2 = re.findall( '0*(.+)', name_org[-8:-4] )[0]
+                
+                name3 = re.findall('<span class="goods_name">(.+)</span>', html_specific)[0]
 
-            name3 = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '_', name3)
+                name3 = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '_', name3)
 
-            name = colour_code + ' ' + name1[2:] + name2 + ' ' + name3 + '.jpg'
+                name = colour_code + ' ' + name1[2:] + name2 + ' ' + name3 + '.jpg'
+
+            except:
+                name3 = re.findall('<span class="goods_name">(.+)</span>', html_specific)[0]
+
+                name3 = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '_', name3)
+
+                name = name_org[:-4] + ' ' + name3 + '.jpg'
             object_name_list.append(name)
             print(name)
     
@@ -146,9 +159,11 @@ if __name__ == '__main__':
     folderlist = readfolder()     # Don't forget to renew this list after the update
     print('readfolder success')
 #    for page_number in range(467, 491):  # From 21 to 24
-    for page_number in range(487, 488):
-        print(str(page_number - 466) + 'start')
-        currentVideoPath = os.path.join(sys.path[0], 'Pic', folderlist[page_number - 467])
+    start_number = 505
+    end_number = 532 # Included
+    for page_number in range(start_number, end_number + 1):
+        print(str(folderlist[page_number - 491]) + ' ' + 'start')
+        currentVideoPath = os.path.join(sys.path[0], 'Pic', folderlist[page_number - 491])
         url_page = 'https://www.cardland-kamata.com/product-list/' + str(page_number)
         url_list, name_list = get_play_list(url_page)
         download_pic(url_list, name_list, currentVideoPath)
